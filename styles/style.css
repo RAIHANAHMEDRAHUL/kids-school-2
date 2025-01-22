@@ -91,6 +91,27 @@ color: rgba(93, 88, 239, 1);
 .hero-img img{
 
 }
+.marquee{
+    font-size: 1.5rem;
+    font-weight: 700;
+    color:rgb(60, 216, 232);
+}
+.rr{
+    color: rgb(255, 51, 51);
+}
+.pp{
+    color: rgb(153, 36, 255);
+}
+.aa{
+    color: rgb(255, 191, 41);
+}
+.ss{
+    color: rgb(93, 88, 240);
+    
+}
+.dd{
+    color: rgb(0, 242, 52);
+}
 /* standard curriculalm styles */
 .curriculum{
     justify-items: center;
